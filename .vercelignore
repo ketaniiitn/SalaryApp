@@ -1,0 +1,14 @@
+# Only the API is deployed to Vercel. Secrets and the phone app never leave this computer.
+.env
+.env.*
+**/.env
+**/.env.*
+node_modules
+**/node_modules
+.vercel/output
+mobile
+docs
+supabase
+.cursor
+BUGS.md
+README.md

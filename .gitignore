@@ -1,0 +1,9 @@
+node_modules/
+.DS_Store
+.env
+.env.local
+server/.env
+server/.env.local
+mobile/.env
+mobile/.env.local
+.vercel
